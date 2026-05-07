@@ -5,10 +5,10 @@
 - Diffusione della IA generativa 
    - caratteristiche 
    - limiti
-   - Rilevanza: *<br>&#8203;
+   - Rilevanza: **<br>&#8203;
 - Prompt Engineering
    - Tecniche per formulare richieste efficaci agli LLM
-   - Rilevanza: *
+   - Rilevanza: **
 - Co-scrittura uomo–AI
    - Collaborazione tra autore umano e modello linguistico
    - Rilevanza: 
@@ -26,7 +26,7 @@
    - Rilevanza: *
 - AI e trasformazione del ruolo dell’autore
    - Evoluzione del concetto di autorialità
-   - Rilevanza: *
+   - Rilevanza: **
 - Metodologie iterative di revisione
    - Uso di prompt successivi per raffinare il testo
    - Rilevanza: 
@@ -47,10 +47,10 @@
    - Rilevanza: 
 - Valutazione della qualità del testo generato
    - Metriche qualitative e quantitative
-   - Rilevanza: *
+   - Rilevanza: **
 - Allucinazioni e affidabilità
    - Errori fattuali nei testi generati
-   - Rilevanza: *
+   - Rilevanza: **
 - Multimodalità nella scrittura
    - Integrazione tra testo, immagini e audio
    - Rilevanza: *
@@ -62,10 +62,10 @@
    - Rilevanza: 
 - Impatto sul lavoro editoriale
    - Effetti su giornalismo, editoria e traduzione
-   - Rilevanza: *
+   - Rilevanza: **
 - Aspetti cognitivi della scrittura con AI
    - Come cambia il processo mentale di scrittura
-   - Rilevanza: *
+   - Rilevanza: **
 - Trasparenza e AI disclosure
    - Dichiarare l’uso dell’AI nei contenuti
    - Rilevanza: *
@@ -80,5 +80,5 @@
    - Rilevanza: *
 - Evoluzione storica della scrittura automatica
    - Dai chatbot classici agli LLM moderni
-   - Rilevanza: 
+   - Rilevanza:
 
