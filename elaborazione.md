@@ -1,1 +1,3 @@
 # elaborazione
+
+Ind
