@@ -1,6 +1,6 @@
 # ideazione
 
-**possibi temi**
+**possibili temi**
 
 - Diffusione della IA generativa 
    - caratteristiche 
@@ -8,77 +8,77 @@
    - Rilevanza: *<br>&#8203;
 - Prompt Engineering
    - Tecniche per formulare richieste efficaci agli LLM
-   - Rilevanza: Molto alta
+   - Rilevanza: *
 - Co-scrittura uomo–AI
    - Collaborazione tra autore umano e modello linguistico
-   - Rilevanza: Molto alta
+   - Rilevanza: 
 - Scrittura creativa assistita
    - Uso degli LLM per narrativa, storytelling e sceneggiature
-   - Rilevanza: Alta
+   - Rilevanza: 
 - Scrittura accademica con AI
    - Supporto nella redazione di saggi, tesi e abstract
-   - Rilevanza: Molto alta
+   - Rilevanza: 
 - Bias linguistici e culturali
    - Pregiudizi presenti nei testi generati
-   - Rilevanza: Molto alta
+   - Rilevanza: 
 - Etica e plagio
    - Problemi di autenticità, copyright e originalità
-   - Rilevanza: Molto alta
+   - Rilevanza: *
 - AI e trasformazione del ruolo dell’autore
    - Evoluzione del concetto di autorialità
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Metodologie iterative di revisione
    - Uso di prompt successivi per raffinare il testo
-   - Rilevanza: Molto alta
+   - Rilevanza: 
 - Chain-of-Thought e reasoning
    - Tecniche che guidano il ragionamento del modello
-   - Rilevanza: Alta
+   - Rilevanza: 
 - Fine-tuning e personalizzazione
    - Adattamento degli LLM a domini specifici
-   - Rilevanza: Alta
+   - Rilevanza: 
 - LLM nella comunicazione aziendale
    - Email, report, marketing e customer care
-   - Rilevanza: Alta
+   - Rilevanza: 
 - Generazione automatica di contenuti SEO
    - Blog, landing page e copywriting
-   - Rilevanza: Media-Alta
+   - Rilevanza: 
 - Didattica e apprendimento assistito
    - Uso degli LLM nella scuola e università
-   - Rilevanza: Molto alta
+   - Rilevanza: 
 - Valutazione della qualità del testo generato
    - Metriche qualitative e quantitative
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Allucinazioni e affidabilità
    - Errori fattuali nei testi generati
-   - Rilevanza: Molto alta
+   - Rilevanza: *
 - Multimodalità nella scrittura
    - Integrazione tra testo, immagini e audio
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Scrittura specialistica
    - Ambiti legale, medico e tecnico-scientifico
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Automazione editoriale
    - Workflow automatizzati nella produzione di contenuti
-   - Rilevanza: Media-Alta
+   - Rilevanza: 
 - Impatto sul lavoro editoriale
    - Effetti su giornalismo, editoria e traduzione
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Aspetti cognitivi della scrittura con AI
    - Come cambia il processo mentale di scrittura
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Trasparenza e AI disclosure
    - Dichiarare l’uso dell’AI nei contenuti
-   - Rilevanza: Alta
+   - Rilevanza: *
 - Confronto tra modelli linguistici
    - GPT, Claude, Gemini, Llama ecc.
-   - Rilevanza: Media-Alta
+   - Rilevanza: *
 - Metodi di verifica delle fonti
    - Fact-checking nei contenuti generati dagli LLM
-   - Rilevanza: Molto alta
+   - Rilevanza: *
 - Human-in-the-loop
    - Supervisione umana nella produzione testuale
-   - Rilevanza: Molto alta
+   - Rilevanza: *
 - Evoluzione storica della scrittura automatica
    - Dai chatbot classici agli LLM moderni
-   - Rilevanza: Media
+   - Rilevanza: 
 
